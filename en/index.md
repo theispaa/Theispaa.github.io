@@ -7,7 +7,7 @@ title: English
 
   <!-- Sidebar -->
   <div style="flex: 1; max-width: 250px;">
-    <img src="https://avatars.githubusercontent.com/u/your-id-her" style="border-radius: 50%; width: 100%;">
+    <img src="/Enlight314.JPG" style="border-radius: 50%; width: 180px; height: 180px; object-fit: cover;">
     <h3>Theis Paaske Andersen</h3>
     <p>MSc in Data Science</p>
     <p>📍 Denmark</p>
