@@ -1,6 +1,6 @@
 title: Theis Andersen
 baseurl: ""
-url: "https://theisandersen.github.io"
+url: "https://theispaa.github.io"
 theme: minima
 plugins:
   - jekyll-redirect-from
