@@ -1,10 +1,19 @@
 ---
 layout: default
-title: Velkommen
+title: Dansk
 ---
 
 # 👋 Hej, jeg hedder Theis
 
-Jeg er nyuddannet data scientist med baggrund i sundhed og erfaring med machine learning og registerdata.
 
-[🇬🇧 Se siden på engelsk](/en/)
+## 🧠 Projekter
+
+- 🎓 [Speciale: Forudsigelse af unødvendige MR-skanninger](#)
+- 📊 [Dashboard med ladestandere i Danmark](#)
+- 🤖 [Sentimentanalyse af tweets med RNN](#)
+
+
+## 📫 Kontakt
+
+- [LinkedIn](https://www.linkedin.com/in/theisandersen)  
+- [Email](mailto:theis@dinmail.dk)
