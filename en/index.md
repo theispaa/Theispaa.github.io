@@ -23,7 +23,6 @@ title: English
       I enjoy working with machine learning and solving real-world problems using data.  
       This site gives an overview of some of the projects I’ve worked on – feel free to check them out if you're curious.
     </p>
-    </br>
     <h2>🧠 Projects</h2>
     <ul>
       <li><a href="#">🎓 Thesis: Predicting unnecessary MRI referrals</a></li>
