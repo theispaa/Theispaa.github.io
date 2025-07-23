@@ -23,8 +23,6 @@ title: Dansk
       Jeg kan godt lide at arbejde med machine learning og finde løsninger på rigtige problemer med data.  
       Denne side giver et overblik over nogle af de projekter, jeg har lavet – som du kan kigge på, hvis du har lyst.
     </p>
-    </br>
-    </br>
     <h2> Projekter</h2>
     <ul>
       <li><a href="#">🎓 Speciale: Forudsigelse af unødvendige MR-skanninger</a></li>
