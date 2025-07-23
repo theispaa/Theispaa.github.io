@@ -13,7 +13,6 @@ title: English
     <p>📍 Denmark</p>
     <p><a href="mailto:theis@email.dk">Email</a></p>
     <p><a href="https://www.linkedin.com/in/theisandersen">LinkedIn</a></p>
-    <p><a href="https://github.com/theispaa">GitHub</a></p>
   </div>
 
   <!-- Main content -->
