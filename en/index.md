@@ -5,7 +5,7 @@ title: English
 
 # 👋 Hi, I'm Theis
 
-I'm a newly graduated data scientist with a healthcare background and experience in machine learning and health registry data.
+I'm a Data Science graduate with a background in healthcare. I enjoy working with machine learning and solving real-world problems using data.
 
 
 ## Projects
