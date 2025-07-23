@@ -7,7 +7,7 @@ title: Dansk
 
   <!-- Sidebar -->
   <div style="flex: 1; max-width: 250px;">
-    <img src="/Enlight314.JPG"" style="border-radius: 50%; width: 100%;">
+    <img src="/Enlight314.JPG" style="border-radius: 50%; width: 100%;">
     <h3>Theis Paaske Andersen</h3>
     <p>Cand.scient. i Data Science</p>
     <p>📍 Danmark</p>
