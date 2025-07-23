@@ -1,6 +1,10 @@
-title: Theis Andersen
+title: Theis Paaske Andersen
 baseurl: ""
 url: "https://theispaa.github.io"
 theme: minima
 plugins:
   - jekyll-redirect-from
+
+header_pages:
+  - da/index.md
+  - en/index.md
