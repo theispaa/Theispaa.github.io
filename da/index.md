@@ -25,8 +25,10 @@ title: Dansk
     </p>
     <h2> Projekter</h2>
     <ul>
-      <li><a href="#">🎓 Speciale: Forudsigelse af unødvendige MR-skanninger</a></li>
-      <li><a href="#">📊 Dashboard med ladestandere i Danmark</a></li>
+      <li>
+        <a href="https://github.com/theispaa/EV-Dashboard" target="_blank">📊 Dashboard med El-biler og ladestandere i Danmark</a><br>
+        <small> Et interaktivt dashboard, der visualiserer elbilers rækkevidde i Danmark i både koldt og varmt vejr – med udgangspunkt i Odense,         Aarhus eller København. Projektet indeholder et heatmap over ladestandere i Danmark samt mulighed for at sammenligne forskellige                 bilmodeller på fire specifikationer. Udviklet med Dash, GeoJSON og netværksanalyse.</small>
+      </li>
       <li><a href="#">🤖 Sentimentanalyse af tweets med RNN</a></li>
     </ul>
     <br>
