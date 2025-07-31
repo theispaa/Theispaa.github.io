@@ -25,8 +25,11 @@ title: English
     </p>
     <h2>🧠 Projects</h2>
     <ul>
-      <li><a href="#">🎓 Thesis: Predicting unnecessary MRI referrals</a></li>
-      <li><a href="#">📊 Dashboard: EV chargers in Denmark</a></li>
+      <li>
+        <a href="https://github.com/theispaa/EV-Dashboard" target="_blank">📊 Visualization Project: Dashboard of EVs and Charging Stations in           Denmark</a><br>
+        <small> An interactive dashboard that visualizes electric vehicle range in Denmark under both cold and warm weather conditions, starting         from Odense, Aarhus, or Copenhagen. The project includes a heatmap of the national charging station network and allows comparison of             different car models across four key specifications. Built with Dash, GeoJSON, and network analysis.
+        </small>
+      </li>
       <li><a href="#">🤖 Tweet sentiment analysis with RNN</a></li>
     </ul>
     </br>
